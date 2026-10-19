@@ -12,16 +12,20 @@
 
 ## 🔭 What I'm working on
 
-- 🚀 **[vllm-sly-radiance](https://github.com/SlyBase/vllm-sly-radiance)** – the fastest vLLM path for AMD Radeon AI PRO R9700 GPUs<br>
-  ![Stars](https://img.shields.io/github/stars/SlyBase/vllm-sly-radiance?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/vllm-sly-radiance?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/vllm-sly-radiance?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/vllm-sly-radiance?style=flat)
-- ⎈ **[helm-charts](https://github.com/SlyBase/helm-charts)** – Helm charts that make full use of default images<br>
-  ![Stars](https://img.shields.io/github/stars/SlyBase/helm-charts?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/helm-charts?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/helm-charts?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/helm-charts?style=flat)
-- 🏠 **[homeassistant-openmediavault](https://github.com/SlyBase/homeassistant-openmediavault)** – OpenMediaVault integration for Home Assistant<br>
-  ![Stars](https://img.shields.io/github/stars/SlyBase/homeassistant-openmediavault?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/homeassistant-openmediavault?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/homeassistant-openmediavault?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/homeassistant-openmediavault?style=flat)
-- 📊 **[wordpress-slymetrics](https://github.com/SlyBase/wordpress-slymetrics)** – WordPress plugin exporting Prometheus metrics, with a Grafana dashboard<br>
-  ![Stars](https://img.shields.io/github/stars/SlyBase/wordpress-slymetrics?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/wordpress-slymetrics?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/wordpress-slymetrics?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/wordpress-slymetrics?style=flat)
-- 🛠️ **[Autodesk-Deployments](https://github.com/CIDEON-EC/Autodesk-Deployments)** – automated Autodesk installation with PowerShell<br>
-  ![Stars](https://img.shields.io/github/stars/CIDEON-EC/Autodesk-Deployments?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/CIDEON-EC/Autodesk-Deployments?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/CIDEON-EC/Autodesk-Deployments?style=flat) ![Last commit](https://img.shields.io/github/last-commit/CIDEON-EC/Autodesk-Deployments?style=flat)
+<table>
+  <tr>
+    <td><a href="https://github.com/SlyBase/vllm-sly-radiance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=vllm-sly-radiance&hide_border=true" alt="vllm-sly-radiance" /></a></td>
+    <td><a href="https://github.com/SlyBase/helm-charts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=helm-charts&hide_border=true" alt="helm-charts" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SlyBase/homeassistant-openmediavault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=homeassistant-openmediavault&hide_border=true" alt="homeassistant-openmediavault" /></a></td>
+    <td><a href="https://github.com/SlyBase/wordpress-slymetrics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=wordpress-slymetrics&hide_border=true" alt="wordpress-slymetrics" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CIDEON-EC/Autodesk-Deployments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIDEON-EC&repo=Autodesk-Deployments&hide_border=true" alt="Autodesk-Deployments" /></a></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🧰 Tech Stack
 
@@ -39,8 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=slydlake&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slydlake&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=slydlake&show_icons=true&hide_border=true&hide=stars" alt="GitHub stats" />
 </p>
 
 ## 📫 Contact
