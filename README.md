@@ -12,11 +12,16 @@
 
 ## 🔭 What I'm working on
 
-- 🚀 **[vllm-sly-radiance](https://github.com/SlyBase/vllm-sly-radiance)** – the fastest vLLM path for AMD Radeon AI PRO R9700 GPUs
-- ⎈ **[helm-charts](https://github.com/SlyBase/helm-charts)** – Helm charts that make full use of default images
-- 📊 **[wordpress-slymetrics](https://github.com/SlyBase/wordpress-slymetrics)** – WordPress plugin exporting Prometheus metrics, with a Grafana dashboard
-- 🏠 **[homeassistant-openmediavault](https://github.com/SlyBase/homeassistant-openmediavault)** – OpenMediaVault integration for Home Assistant (fork)
-- 🛠️ **[Autodesk-Deployments](https://github.com/CIDEON-EC/Autodesk-Deployments)** – automated Autodesk installation with PowerShell
+- 🚀 **[vllm-sly-radiance](https://github.com/SlyBase/vllm-sly-radiance)** – the fastest vLLM path for AMD Radeon AI PRO R9700 GPUs<br>
+  ![Stars](https://img.shields.io/github/stars/SlyBase/vllm-sly-radiance?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/vllm-sly-radiance?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/vllm-sly-radiance?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/vllm-sly-radiance?style=flat)
+- ⎈ **[helm-charts](https://github.com/SlyBase/helm-charts)** – Helm charts that make full use of default images<br>
+  ![Stars](https://img.shields.io/github/stars/SlyBase/helm-charts?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/helm-charts?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/helm-charts?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/helm-charts?style=flat)
+- 🏠 **[homeassistant-openmediavault](https://github.com/SlyBase/homeassistant-openmediavault)** – OpenMediaVault integration for Home Assistant<br>
+  ![Stars](https://img.shields.io/github/stars/SlyBase/homeassistant-openmediavault?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/homeassistant-openmediavault?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/homeassistant-openmediavault?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/homeassistant-openmediavault?style=flat)
+- 📊 **[wordpress-slymetrics](https://github.com/SlyBase/wordpress-slymetrics)** – WordPress plugin exporting Prometheus metrics, with a Grafana dashboard<br>
+  ![Stars](https://img.shields.io/github/stars/SlyBase/wordpress-slymetrics?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/SlyBase/wordpress-slymetrics?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/SlyBase/wordpress-slymetrics?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SlyBase/wordpress-slymetrics?style=flat)
+- 🛠️ **[Autodesk-Deployments](https://github.com/CIDEON-EC/Autodesk-Deployments)** – automated Autodesk installation with PowerShell<br>
+  ![Stars](https://img.shields.io/github/stars/CIDEON-EC/Autodesk-Deployments?style=flat&logo=github) ![Forks](https://img.shields.io/github/forks/CIDEON-EC/Autodesk-Deployments?style=flat&logo=github) ![Issues](https://img.shields.io/github/issues/CIDEON-EC/Autodesk-Deployments?style=flat) ![Last commit](https://img.shields.io/github/last-commit/CIDEON-EC/Autodesk-Deployments?style=flat)
 
 ## 🧰 Tech Stack
 
@@ -41,3 +46,4 @@
 ## 📫 Contact
 
 - 🌐 [www.slybase.com](https://www.slybase.com)
+- 🏢 [SlyBase on GitHub](https://github.com/SlyBase)
