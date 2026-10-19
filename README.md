@@ -14,15 +14,15 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/SlyBase/vllm-sly-radiance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=vllm-sly-radiance&hide_border=true" alt="vllm-sly-radiance" /></a></td>
-    <td><a href="https://github.com/SlyBase/helm-charts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=helm-charts&hide_border=true" alt="helm-charts" /></a></td>
+    <td><a href="https://github.com/SlyBase/vllm-sly-radiance"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=vllm-sly-radiance&hide_border=true&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=vllm-sly-radiance&hide_border=true" alt="vllm-sly-radiance" /></picture></a></td>
+    <td><a href="https://github.com/SlyBase/helm-charts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=helm-charts&hide_border=true&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=helm-charts&hide_border=true" alt="helm-charts" /></picture></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SlyBase/homeassistant-openmediavault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=homeassistant-openmediavault&hide_border=true" alt="homeassistant-openmediavault" /></a></td>
-    <td><a href="https://github.com/SlyBase/wordpress-slymetrics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=wordpress-slymetrics&hide_border=true" alt="wordpress-slymetrics" /></a></td>
+    <td><a href="https://github.com/SlyBase/homeassistant-openmediavault"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=homeassistant-openmediavault&hide_border=true&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=homeassistant-openmediavault&hide_border=true" alt="homeassistant-openmediavault" /></picture></a></td>
+    <td><a href="https://github.com/SlyBase/wordpress-slymetrics"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=wordpress-slymetrics&hide_border=true&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SlyBase&repo=wordpress-slymetrics&hide_border=true" alt="wordpress-slymetrics" /></picture></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CIDEON-EC/Autodesk-Deployments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIDEON-EC&repo=Autodesk-Deployments&hide_border=true" alt="Autodesk-Deployments" /></a></td>
+    <td><a href="https://github.com/CIDEON-EC/Autodesk-Deployments"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CIDEON-EC&repo=Autodesk-Deployments&hide_border=true&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIDEON-EC&repo=Autodesk-Deployments&hide_border=true" alt="Autodesk-Deployments" /></picture></a></td>
     <td></td>
   </tr>
 </table>
@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=slydlake&show_icons=true&hide_border=true&hide=stars" alt="GitHub stats" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=slydlake&show_icons=true&hide_border=true&hide=stars&theme=github_dark"><img height="170" src="https://github-readme-stats.vercel.app/api?username=slydlake&show_icons=true&hide_border=true&hide=stars" alt="GitHub stats" /></picture>
 </p>
 
 ## 📫 Contact
